@@ -1,0 +1,27 @@
+li {padding: 0 200px 900px 0;
+    height: 700px;
+
+}
+#One {
+    background-image: url("https://torque-stock.ru/wp-content/uploads/9/5/a/95a6e21d8e9ed352cf48fab0008a2471.jpeg") ;
+  background-size: contain;
+    width: 50%;
+    height: 50%;
+    padding-right: 200px;
+    background-position: right;
+    
+}
+#Two {
+    background-image: url("https://de-fragrance.ru/wp-content/uploads/a/6/0/a6074544aed8d88b4cd8e0e53ea5a2e9.png") ;
+    background-size: cover;
+    width: 50%;
+    height: 50%;
+    padding-right: 200px;}
+
+#Three{
+    background-image: url("https://avatars.dzeninfra.ru/get-zen_doc/1581245/pub_5dc6ed843b6d88657bb998ca_5dc6fd3d08ffd321245bec7d/scale_1200") ;
+    background-size: cover;
+    width: 50%;
+    height: 50%;
+    padding-right: 200px;
+}
