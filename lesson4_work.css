@@ -1,0 +1,10 @@
+li:nth-child(2n) {
+    background-color: #ff3535;}
+    input::placeholder {
+          color: rgb(69, 122, 234);
+        }
+img{
+    background-size: contain;
+    width: 50%;
+    height: 50%;
+}

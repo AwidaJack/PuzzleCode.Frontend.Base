@@ -1,0 +1,21 @@
+img{
+    background-size: contain;
+    width: 20%;
+    height: 20%; 
+     margin-left: 20px;
+}
+li{
+    margin-bottom: 100px;
+  margin-left: 33%;
+  
+}
+.rrr{
+    text-align: center;
+}
+.ddd{
+    text-align: center;
+}
+
+.three{
+    margin-left: 35%;
+}
