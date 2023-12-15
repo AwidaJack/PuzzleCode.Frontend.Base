@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Типы отображения CSS</title>
+    <link rel="stylesheet" href="">
+</head>
+<body>
+<h1>Свойство display</h1>
+    <div>
+        <h2>display: block</h2>
+        <div class="one">
+        <img src="https://avatars.mds.yandex.net/i?id=23e6d0318aac16d4eb779f27696a640678d0abc2-10948701-images-thumbs&n=13" alt="">
+        <p>Элементы с этим значением свойства display всегда начинаются с новой строки и занимают всю доступную ширину родительского контейнера. Они создают блочный контекст и могут содержать другие блочные и строчные элементы.</p>
+      <span class="block">Я первый блочный элемент</span>
+      <span class="block">Я второй блочный элемент</span>
+      <span class="block">Я третий блочный элемент</span></div>
+    </div>
+
+    <div>
+        <h2>display: inline</h2>
+        <div class="two">
+            <img src="https://avatars.mds.yandex.net/i?id=23e6d0318aac16d4eb779f27696a640678d0abc2-10948701-images-thumbs&n=13" alt="">
+            <p>Элементы с этим значением свойства display не начинают новой строки и занимают только столько ширины, сколько необходимо для их содержимого. Они создают строчный контекст и не могут содержать другие блочные элементы.</p>
+            <span class="inline">Я первый строчный элемент</span>
+      <span class="inline">Я второй строчный элемент</span>
+      <span class="inline">Я третий строчный элемент</span></div>
+    </div>
+
+    <div>
+        <h2>display: inline-block</h2>
+        <div class="three">
+            <img src="https://avatars.mds.yandex.net/i?id=23e6d0318aac16d4eb779f27696a640678d0abc2-10948701-images-thumbs&n=13" alt="">
+        <p>Элементы с этим значением свойства display объединяют особенности блочных и строчных элементов. Они не начинают новой строки, но при этом могут занимать только столько ширины, сколько необходимо для их содержимого, и при этом могут содержать другие блочные и строчные элементы.</p>
+       <span class="inline-block">Я первый блочно-строчный элемент</span>
+      <span class="inline-block">Я второй блочно-строчный элемент</span>
+      <span class="inline-block">Я третий блочно-строчный элемент</span></div>
+    </div>
+</body>
+</html>
