@@ -1,0 +1,15 @@
+*{
+    outline: 1px solid red;
+}
+.HeroSelection{
+    outline: 5px solid rgba(5, 198, 44, 0.81);
+}
+.PopularFoodsAndvegeteblse{
+    outline: 5px solid rgba(5, 198, 44, 0.81);
+}
+.AgricultureMatters{
+    outline: 5px solid rgba(5, 198, 44, 0.81);
+}
+.Recentlycompletedwork{
+    outline: 5px solid rgba(5, 198, 44, 0.81);
+}
