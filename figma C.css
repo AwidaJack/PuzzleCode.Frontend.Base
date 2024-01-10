@@ -1,15 +1,161 @@
 *{
-    outline: 1px solid red;
+
 }
 .HeroSelection{
-    outline: 5px solid rgba(5, 198, 44, 0.81);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/b1/Wertachauen_bei_Höfen.jpg);
+    max-width: 1520px;
+    height: 700px;
+    flex-shrink: 0;
+font-family: "Livvic", sans-serif;
+margin-bottom: 0;
+
 }
+
+
+
 .PopularFoodsAndvegeteblse{
-    outline: 5px solid rgba(5, 198, 44, 0.81);
+    width: 1263px;
+height: 756px;
+background-color: #263C28;
+   
 }
 .AgricultureMatters{
-    outline: 5px solid rgba(5, 198, 44, 0.81);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 1263px;
+height: 700px;
+flex-shrink: 0;
+background-image: url(https://www.yuga.ru/media/70/7b/lds-at-the-sunrise-captured-in-canggu-b__7f6wqb8.jpg);
+   
 }
 .Recentlycompletedwork{
-    outline: 5px solid rgba(5, 198, 44, 0.81);
+  background-color:  #263C28;
+  width: 1260px;
+height: 753px;
+flex-shrink: 0;
+}
+
+
+h1{
+color: #F7C35F;
+
+font-family: Livvic;
+font-size: 70px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 35px;
+margin-bottom: 0;}
+.little{
+    width: 215px;
+flex-shrink: 0;
+color: #FFF;
+
+font-family: Livvic;
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 120% */
+}
+h2{
+    color: #FFF;
+font-family: Livvic;
+font-size: 70px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 0;
+margin-bottom: 10px;
+}
+p{
+    color: #FFF;
+font-family: Livvic;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+width: 730px;
+}
+button{
+    display: flex;
+padding: 25px 50px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 20px;
+background: #F7C35F;
+margin-top: 30px;
+color: #1A1A1A;
+border: none;
+font-family: Livvic;
+font-size: 15px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-transform: uppercase;
+font-family: "Livvic";
+}
+.conteiner{
+width: 730px ;
+height: 406px;
+padding-top: 200px;
+padding-left: 200px;
+}
+.top{
+    color: #FFF;
+font-family: Livvic;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 150% */
+text-transform: uppercase;
+ padding-left: 33%;
+
+}
+.down{
+    color: #FFF;
+font-family: Livvic;
+font-size: 50px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 20px;
+padding-left: 21%;
+}
+.text{
+ padding-top: 78px;
+}
+
+.three{
+    padding-top: 280px;
+    margin-top: 0;
+    color: #FFF;
+padding-left: 150px;
+font-family: Livvic;
+font-size: 45px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.top1{
+padding-left: 38%;
+color: #FFF;
+
+font-family: Livvic;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 150% */
+text-transform: uppercase;
+}
+.down1{
+padding-left: 31%;
+color: #FFF;
+margin-top: 20px;
+font-family: Livvic;
+font-size: 45px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
 }
