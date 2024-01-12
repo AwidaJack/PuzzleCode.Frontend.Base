@@ -16,11 +16,14 @@ margin-bottom: 0;
 
 
 .PopularFoodsAndvegeteblse{
-    width: 1263px;
-height: 756px;
-background-color: #263C28;
-   
+    width: 1260px;
+    height: 656px;
+    background-color:#334B35;
+    margin: 0;
+    padding: 0;
 }
+   
+
 .AgricultureMatters{
     background-repeat: no-repeat;
     background-size: contain;
@@ -42,41 +45,41 @@ h1{
 color: #F7C35F;
 
 font-family: Livvic;
-font-size: 70px;
+font-size: 420%;
 font-style: normal;
 font-weight: 700;
 line-height: normal;
-margin-top: 35px;
+margin-top: 1%;
 margin-bottom: 0;}
 .little{
     width: 215px;
 flex-shrink: 0;
 color: #FFF;
-
+margin-bottom: 2%;
 font-family: Livvic;
-font-size: 25px;
+font-size: 120%;
 font-style: normal;
 font-weight: 400;
-line-height: 30px; /* 120% */
+line-height: 120%; /* 120% */
 }
 h2{
     color: #FFF;
 font-family: Livvic;
-font-size: 70px;
+font-size: 380%;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
 margin-top: 0;
-margin-bottom: 10px;
+margin-bottom: 1%;
 }
 p{
     color: #FFF;
 font-family: Livvic;
-font-size: 20px;
+font-size: 100%;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
-width: 730px;
+
 }
 button{
     display: flex;
@@ -85,11 +88,11 @@ align-items: flex-start;
 gap: 10px;
 border-radius: 20px;
 background: #F7C35F;
-margin-top: 30px;
+margin-top: 5%;
 color: #1A1A1A;
 border: none;
 font-family: Livvic;
-font-size: 15px;
+font-size: 90%;
 font-style: normal;
 font-weight: 500;
 line-height: normal;
@@ -99,16 +102,16 @@ font-family: "Livvic";
 .conteiner{
 width: 730px ;
 height: 406px;
-padding-top: 200px;
-padding-left: 200px;
+padding-top: 10%;
+padding-left: 17%;
 }
 .top{
     color: #FFF;
 font-family: Livvic;
-font-size: 20px;
+font-size: 120%;
 font-style: normal;
 font-weight: 400;
-line-height: 30px; /* 150% */
+line-height: 150%; /* 150% */
 text-transform: uppercase;
  padding-left: 33%;
 
@@ -116,24 +119,24 @@ text-transform: uppercase;
 .down{
     color: #FFF;
 font-family: Livvic;
-font-size: 50px;
+font-size: 300%;
 font-style: normal;
 font-weight: 700;
 line-height: normal;
-margin-top: 20px;
+margin-top: 1%;
 padding-left: 21%;
 }
 .text{
- padding-top: 78px;
+ padding-top: 5%;
 }
 
 .three{
-    padding-top: 280px;
+    padding-top: 22%;
     margin-top: 0;
     color: #FFF;
-padding-left: 150px;
+padding-left: 13%;
 font-family: Livvic;
-font-size: 45px;
+font-size: 280%;
 font-style: normal;
 font-weight: 700;
 line-height: normal;
@@ -143,19 +146,41 @@ padding-left: 38%;
 color: #FFF;
 
 font-family: Livvic;
-font-size: 20px;
+font-size: 135%;
 font-style: normal;
 font-weight: 400;
-line-height: 30px; /* 150% */
+line-height: 150%; /* 150% */
 text-transform: uppercase;
 }
 .down1{
 padding-left: 31%;
 color: #FFF;
-margin-top: 20px;
+margin-top: 1%;
 font-family: Livvic;
-font-size: 45px;
+font-size: 300%;
 font-style: normal;
 font-weight: 700;
 line-height: normal;
+}
+.cards{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 10%;
+    display: flex;
+    justify-content: space-between;
+}
+.Apple{
+
+    width: 183px;
+    height: 177px;
+    background-color: #445945;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 15px;
+    margin-right: 2%;
+}
+.food-text{
+    
 }
